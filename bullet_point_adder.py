@@ -12,8 +12,3 @@ for i in range(len(lines)):
 text = '\n'.join(lines)
 # separate lines and add starts
 pyperclip.copy(text)
-
-- Learn how to automate with python
-- Write a few Flask projects
-- Create a web server written in Rust
-- Write some viral coding tutorials on blog
